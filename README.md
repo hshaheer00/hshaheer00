@@ -14,17 +14,14 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const shaheer = {
-  name: "Shaheer Haider",
-  education: "BS Computer Science (BSCS)",
-  focus: "Full-Stack Web Development",
-  passions: ["Building web apps", "Clean code", "Game dev with Pygame"],
-  currentlyLearning: ["Advanced React patterns", "REST APIs with .NET"],
-  github: "github.com/shaheer-haider",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
+Hi there! I'm **Shaheer Haider**, a passionate **BS Computer Science** student with a strong focus on **Full-Stack Web Development**. I love turning ideas into real, functional web experiences — from clean and responsive UIs to robust back-end systems.
+
+- 🎓 &nbsp; Currently pursuing **BSCS**
+- 💻 &nbsp; Passionate about **Web Development** — frontend & backend
+- 🌱 &nbsp; Currently learning **Advanced React patterns** and **REST APIs with .NET**
+- 🎮 &nbsp; I also explore **game development** using Python & Pygame
+- 🔭 &nbsp; Always building, always improving
+- ⚡ &nbsp; Fun fact: I started with HTML & CSS and never stopped exploring!
 
 ---
 
@@ -97,7 +94,7 @@ const shaheer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shaheer--haider-181717?style=for-the-badge&logo=github)](https://github.com/hshaheer00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Haider-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Haider-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hshaheer00)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hshaheer061@gmail.com)
 
 </div>
