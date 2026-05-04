@@ -97,8 +97,8 @@ const shaheer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shaheer--haider-181717?style=for-the-badge&logo=github)](https://github.com/hshaheer00)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Haider-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shaheer-haider)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Haider-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.hshaheer061@gmail.com)
 
 </div>
 
